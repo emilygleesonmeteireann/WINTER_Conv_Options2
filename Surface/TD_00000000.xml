@@ -1,0 +1,1460 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>Td2m</VAR>
+<UNIT>deg C</UNIT>
+<PERIOD>20200203-20200217</PERIOD>
+ <STATION>
+ <MEAN_OBS>   3.47931314     </MEAN_OBS>
+ <STDV_OBS>   2.19136834     </STDV_OBS>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.52626395     </MEAN>
+ <STDV>   1.80780453E+27 </STDV>
+ <BIAS>   1.25397456     </BIAS>
+ <RMSE>  0.866313457     </RMSE>
+ <CORR>   1.23716995E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   7.34840915E-42 </MEAN>
+ <STDV>   7.34840915E-42 </STDV>
+ <BIAS>   1.08063662     </BIAS>
+ <RMSE>  0.870946825     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   1.80780925E+27 </MEAN>
+ <STDV>   1.80780453E+27 </STDV>
+ <BIAS>   1.21369696     </BIAS>
+ <RMSE>  0.868498147     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   7.34840915E-42 </MEAN>
+ <STDV>   7.34840915E-42 </STDV>
+ <BIAS>   1.07651687     </BIAS>
+ <RMSE>  0.870975196     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.39889741     </MEAN_OBS>
+ <STDV_OBS>   2.03307652     </STDV_OBS>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.60333967     </MEAN>
+ <STDV>  -1.62363647E+13 </STDV>
+ <BIAS>   1.13218367     </BIAS>
+ <RMSE>  0.877086043     </RMSE>
+ <CORR>  -1.58807726E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.955468476     </BIAS>
+ <RMSE>  0.885390043     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2775.87207     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.08410203     </BIAS>
+ <RMSE>  0.882776558     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2848.10278     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.957183421     </BIAS>
+ <RMSE>  0.885385752     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.27181005     </MEAN_OBS>
+ <STDV_OBS>   2.47689795     </STDV_OBS>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   4.10009146     </MEAN>
+ <STDV>   1.23716995E+30 </STDV>
+ <BIAS>  0.861775994     </BIAS>
+ <RMSE>  0.951270461     </RMSE>
+ <CORR>  -1.41956565E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.837336481     </BIAS>
+ <RMSE>  0.946460366     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2945.78027     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.851093173     </BIAS>
+ <RMSE>  0.952181876     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2951.47070     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.828558922     </BIAS>
+ <RMSE>  0.947568774     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.88792491     </MEAN_OBS>
+ <STDV_OBS>   2.91098762     </STDV_OBS>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.87047458     </MEAN>
+ <STDV>  -1.58807726E+13 </STDV>
+ <BIAS>  0.874161780     </BIAS>
+ <RMSE>  0.961118340     </RMSE>
+ <CORR>  -1.63103564E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.835771799     </BIAS>
+ <RMSE>  0.962433279     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3162.74194     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.854479790     </BIAS>
+ <RMSE>  0.962596595     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3122.62817     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.841466129     </BIAS>
+ <RMSE>  0.961879134     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.58472967     </MEAN_OBS>
+ <STDV_OBS>   2.85021830     </STDV_OBS>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   4.47640276     </MEAN>
+ <STDV>  -1.41956565E+13 </STDV>
+ <BIAS>  0.857460916     </BIAS>
+ <RMSE>  0.961357772     </RMSE>
+ <CORR>   1.22071526E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.898843884     </BIAS>
+ <RMSE>  0.957072020     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2995.15747     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.851779580     </BIAS>
+ <RMSE>  0.961715460     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3096.85010     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.903637707     </BIAS>
+ <RMSE>  0.956488132     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.62181234     </MEAN_OBS>
+ <STDV_OBS>   2.79813457     </STDV_OBS>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   4.26117182     </MEAN>
+ <STDV>  -1.63103564E+13 </STDV>
+ <BIAS>  0.909694552     </BIAS>
+ <RMSE>  0.952280700     </RMSE>
+ <CORR>  -1.62368229E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.833322763     </BIAS>
+ <RMSE>  0.957143188     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3165.51514     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.906522036     </BIAS>
+ <RMSE>  0.952604294     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3132.24390     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.839853585     </BIAS>
+ <RMSE>  0.956546366     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.64139700     </MEAN_OBS>
+ <STDV_OBS>   3.06557322     </STDV_OBS>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   4.39247179     </MEAN>
+ <STDV>   1.22071526E+30 </STDV>
+ <BIAS>   1.04202044     </BIAS>
+ <RMSE>  0.945786059     </RMSE>
+ <CORR>  -1.62422084E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.987858534     </BIAS>
+ <RMSE>  0.948509932     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3005.64697     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03196156     </BIAS>
+ <RMSE>  0.946952879     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2981.12988     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01073897     </BIAS>
+ <RMSE>  0.946359873     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.67056441     </MEAN_OBS>
+ <STDV_OBS>   2.30533648     </STDV_OBS>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.15387821     </MEAN>
+ <STDV>  -1.62368229E+13 </STDV>
+ <BIAS>   1.06390846     </BIAS>
+ <RMSE>  0.891241252     </RMSE>
+ <CORR>  -1.58808177E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.02188575     </BIAS>
+ <RMSE>  0.896634817     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3014.99243     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03068829     </BIAS>
+ <RMSE>  0.897033870     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2963.50171     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.02200258     </BIAS>
+ <RMSE>  0.896519125     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.43889809     </MEAN_OBS>
+ <STDV_OBS>   2.26437354     </STDV_OBS>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   1.93850744     </MEAN>
+ <STDV>  -1.62422084E+13 </STDV>
+ <BIAS>   1.11763275     </BIAS>
+ <RMSE>  0.877237737     </RMSE>
+ <CORR>  -1.62368051E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05975330     </BIAS>
+ <RMSE>  0.884807646     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3021.80615     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10048974     </BIAS>
+ <RMSE>  0.881427884     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2977.28882     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06563139     </BIAS>
+ <RMSE>  0.883994818     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.96181369     </MEAN_OBS>
+ <STDV_OBS>   2.00447273     </STDV_OBS>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.35437632     </MEAN>
+ <STDV>  -1.58808177E+13 </STDV>
+ <BIAS>   1.09535873     </BIAS>
+ <RMSE>  0.864737332     </RMSE>
+ <CORR>  -1.62363647E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00057936     </BIAS>
+ <RMSE>  0.867352188     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3057.21533     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07330239     </BIAS>
+ <RMSE>  0.869054496     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3088.14258     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.990154564     </BIAS>
+ <RMSE>  0.869288623     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.02500749     </MEAN_OBS>
+ <STDV_OBS>   2.21448398     </STDV_OBS>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   1.40931225     </MEAN>
+ <STDV>  -1.62368051E+13 </STDV>
+ <BIAS>  0.911009669     </BIAS>
+ <RMSE>  0.914422929     </RMSE>
+ <CORR>   1.23716995E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.873155057     </BIAS>
+ <RMSE>  0.919576108     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2936.79663     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.917405903     </BIAS>
+ <RMSE>  0.913808763     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2948.62207     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.875666857     </BIAS>
+ <RMSE>  0.919058502     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.47153473     </MEAN_OBS>
+ <STDV_OBS>   2.12413764     </STDV_OBS>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.06343126     </MEAN>
+ <STDV>  -1.62363647E+13 </STDV>
+ <BIAS>  0.995964408     </BIAS>
+ <RMSE>  0.886938214     </RMSE>
+ <CORR>  -1.58807726E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.973734081     </BIAS>
+ <RMSE>  0.890177906     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3159.73926     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.991580725     </BIAS>
+ <RMSE>  0.889025629     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3224.91870     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.964077830     </BIAS>
+ <RMSE>  0.891951680     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.39028692     </MEAN_OBS>
+ <STDV_OBS>   2.11466217     </STDV_OBS>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   1.65913653     </MEAN>
+ <STDV>   1.23716995E+30 </STDV>
+ <BIAS>  0.986594856     </BIAS>
+ <RMSE>  0.896611512     </RMSE>
+ <CORR>  -1.41956565E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.895732582     </BIAS>
+ <RMSE>  0.906404138     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3016.96240     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.970692515     </BIAS>
+ <RMSE>  0.900484562     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3083.24561     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.881696224     </BIAS>
+ <RMSE>  0.908800602     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.74848056     </MEAN_OBS>
+ <STDV_OBS>   2.18183398     </STDV_OBS>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.33011556     </MEAN>
+ <STDV>  -1.58807726E+13 </STDV>
+ <BIAS>  0.896479845     </BIAS>
+ <RMSE>  0.911387503     </RMSE>
+ <CORR>  -1.63103564E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.878755808     </BIAS>
+ <RMSE>  0.914776862     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3101.67114     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.887497425     </BIAS>
+ <RMSE>  0.913213432     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3102.17090     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.875250578     </BIAS>
+ <RMSE>  0.915958047     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45613766     </MEAN_OBS>
+ <STDV_OBS>   2.47388148     </STDV_OBS>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   2.08476686     </MEAN>
+ <STDV>  -1.41956565E+13 </STDV>
+ <BIAS>  0.826745570     </BIAS>
+ <RMSE>  0.942968786     </RMSE>
+ <CORR>   1.22071526E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.808685362     </BIAS>
+ <RMSE>  0.946004927     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   2924.72705     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.826638103     </BIAS>
+ <RMSE>  0.943460286     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   2969.89771     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.804391861     </BIAS>
+ <RMSE>  0.946236014     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.71625662     </MEAN_OBS>
+ <STDV_OBS>   2.91526365     </STDV_OBS>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   4.34154749     </MEAN>
+ <STDV>  -1.63103564E+13 </STDV>
+ <BIAS>   1.08896708     </BIAS>
+ <RMSE>  0.948573887     </RMSE>
+ <CORR>  -1.62368229E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.951441586     </BIAS>
+ <RMSE>  0.946526766     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3125.90454     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04867387     </BIAS>
+ <RMSE>  0.949654818     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3135.25830     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.937810123     </BIAS>
+ <RMSE>  0.947778642     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.14098024     </MEAN_OBS>
+ <STDV_OBS>   2.89813614     </STDV_OBS>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   4.25900793     </MEAN>
+ <STDV>   1.22071526E+30 </STDV>
+ <BIAS>  0.893274784     </BIAS>
+ <RMSE>  0.955266356     </RMSE>
+ <CORR>  -1.62422084E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.841745198     </BIAS>
+ <RMSE>  0.958149672     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2564.09814     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.907731473     </BIAS>
+ <RMSE>  0.953746915     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2832.35376     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.846204460     </BIAS>
+ <RMSE>  0.957626283     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.04792404     </MEAN_OBS>
+ <STDV_OBS>   2.94726586     </STDV_OBS>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.73119354     </MEAN>
+ <STDV>  -1.62368229E+13 </STDV>
+ <BIAS>   1.15410912     </BIAS>
+ <RMSE>  0.936629057     </RMSE>
+ <CORR>  -1.58808177E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06945014     </BIAS>
+ <RMSE>  0.932985544     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3061.87549     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12338519     </BIAS>
+ <RMSE>  0.937152445     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3042.02148     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05818272     </BIAS>
+ <RMSE>  0.933230579     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.40432143     </MEAN_OBS>
+ <STDV_OBS>   3.08620811     </STDV_OBS>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         719 </NUM>
+ <MEAN>   3.50975680     </MEAN>
+ <STDV>  -1.62422084E+13 </STDV>
+ <BIAS>  0.932737231     </BIAS>
+ <RMSE>  0.953905642     </RMSE>
+ <CORR>   1.22071526E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         719 </NUM>
+ <MEAN>   7.34840915E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.914449215     </BIAS>
+ <RMSE>  0.955147862     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         719 </NUM>
+ <MEAN>  -1.53974074E+13 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.946040332     </BIAS>
+ <RMSE>  0.952533305     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         719 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.928216934     </BIAS>
+ <RMSE>  0.953702867     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.39514565     </MEAN_OBS>
+ <STDV_OBS>   3.20420313     </STDV_OBS>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.56634808     </MEAN>
+ <STDV>  -1.58807380E+13 </STDV>
+ <BIAS>  0.908296943     </BIAS>
+ <RMSE>  0.958517432     </RMSE>
+ <CORR>  -1.62368565E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.918620050     </BIAS>
+ <RMSE>  0.958534896     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3151.91455     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.916114926     </BIAS>
+ <RMSE>  0.958229721     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3169.23218     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.899340093     </BIAS>
+ <RMSE>  0.960229456     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.80000854     </MEAN_OBS>
+ <STDV_OBS>   2.90807343     </STDV_OBS>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.93341470     </MEAN>
+ <STDV>   1.22071526E+30 </STDV>
+ <BIAS>  0.896260858     </BIAS>
+ <RMSE>  0.951527834     </RMSE>
+ <CORR>   1.22119400E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.906206250     </BIAS>
+ <RMSE>  0.950222194     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3052.23462     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.904411256     </BIAS>
+ <RMSE>  0.950541973     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3104.64819     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.916992009     </BIAS>
+ <RMSE>  0.948952734     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.33806491     </MEAN_OBS>
+ <STDV_OBS>   2.72987533     </STDV_OBS>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.46994090     </MEAN>
+ <STDV>  -1.62368565E+13 </STDV>
+ <BIAS>   1.09667695     </BIAS>
+ <RMSE>  0.925937474     </RMSE>
+ <CORR>  -1.63106259E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.02136195     </BIAS>
+ <RMSE>  0.928885400     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3009.04492     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.08761811     </BIAS>
+ <RMSE>  0.927902400     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3063.75684     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00042593     </BIAS>
+ <RMSE>  0.930968702     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.16792154     </MEAN_OBS>
+ <STDV_OBS>   2.11080217     </STDV_OBS>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   4.24018717     </MEAN>
+ <STDV>  -1.58810400E+13 </STDV>
+ <BIAS>  0.995290875     </BIAS>
+ <RMSE>  0.917606533     </RMSE>
+ <CORR>  -1.62362640E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12332880     </BIAS>
+ <RMSE>  0.891272128     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2810.79565     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00676835     </BIAS>
+ <RMSE>  0.914235890     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2910.64575     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12679160     </BIAS>
+ <RMSE>  0.890854836     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.82667661     </MEAN_OBS>
+ <STDV_OBS>   2.73453951     </STDV_OBS>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.90832591     </MEAN>
+ <STDV>  -1.63106259E+13 </STDV>
+ <BIAS>   1.04467833     </BIAS>
+ <RMSE>  0.928112507     </RMSE>
+ <CORR>   1.22119521E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   7.34840915E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.957571685     </BIAS>
+ <RMSE>  0.937874615     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  -1.34531294E+13 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06998646     </BIAS>
+ <RMSE>  0.925048649     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.951829791     </BIAS>
+ <RMSE>  0.937425017     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.58928418     </MEAN_OBS>
+ <STDV_OBS>   2.64882660     </STDV_OBS>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   2.58397865     </MEAN>
+ <STDV>  -1.62362640E+13 </STDV>
+ <BIAS>  0.840101719     </BIAS>
+ <RMSE>  0.949307144     </RMSE>
+ <CORR>  -1.62367894E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.851924717     </BIAS>
+ <RMSE>  0.948176861     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   2939.87451     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.830767334     </BIAS>
+ <RMSE>  0.950362563     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   3033.59424     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.862883270     </BIAS>
+ <RMSE>  0.946745098     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.34820437     </MEAN_OBS>
+ <STDV_OBS>   2.65871549     </STDV_OBS>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.64204979     </MEAN>
+ <STDV>  -1.58128239E+13 </STDV>
+ <BIAS>  0.900183439     </BIAS>
+ <RMSE>  0.939870358     </RMSE>
+ <CORR>  -1.35257548E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.915254951     </BIAS>
+ <RMSE>  0.939143956     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3047.72119     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.913942873     </BIAS>
+ <RMSE>  0.938269377     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3050.98999     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.919328511     </BIAS>
+ <RMSE>  0.938556552     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.74667525     </MEAN_OBS>
+ <STDV_OBS>   2.72171497     </STDV_OBS>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.48133898     </MEAN>
+ <STDV>  -1.62368565E+13 </STDV>
+ <BIAS>   1.12254524     </BIAS>
+ <RMSE>  0.922771990     </RMSE>
+ <CORR>   1.22119400E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05148935     </BIAS>
+ <RMSE>  0.924360216     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3280.78076     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09601128     </BIAS>
+ <RMSE>  0.925354779     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3333.42578     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03905892     </BIAS>
+ <RMSE>  0.924581766     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.41167331     </MEAN_OBS>
+ <STDV_OBS>   2.71361876     </STDV_OBS>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.44677973     </MEAN>
+ <STDV>  -1.35257548E+13 </STDV>
+ <BIAS>  0.977446914     </BIAS>
+ <RMSE>  0.931051433     </RMSE>
+ <CORR>  -1.62368051E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01349950     </BIAS>
+ <RMSE>  0.928486347     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.82104540     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.989712119     </BIAS>
+ <RMSE>  0.929256618     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   4.05828285     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00893068     </BIAS>
+ <RMSE>  0.928218901     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.27704096     </MEAN_OBS>
+ <STDV_OBS>   2.61706257     </STDV_OBS>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>   2.06514525     </MEAN>
+ <STDV>   1.22119400E+30 </STDV>
+ <BIAS>   1.19444788     </BIAS>
+ <RMSE>  0.898750961     </RMSE>
+ <CORR>   1.22071526E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16311812     </BIAS>
+ <RMSE>  0.897180796     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>   3025.79688     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21928346     </BIAS>
+ <RMSE>  0.895511925     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>   3087.35864     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15890551     </BIAS>
+ <RMSE>  0.897564173     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.93834162     </MEAN_OBS>
+ <STDV_OBS>   2.71571040     </STDV_OBS>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.67152643     </MEAN>
+ <STDV>  -1.63106594E+13 </STDV>
+ <BIAS>   1.28222287     </BIAS>
+ <RMSE>  0.914207995     </RMSE>
+ <CORR>  -1.63103575E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19168091     </BIAS>
+ <RMSE>  0.901304841     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3326.53101     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22771788     </BIAS>
+ <RMSE>  0.916106284     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3292.76367     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16881919     </BIAS>
+ <RMSE>  0.902501881     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.58806419     </MEAN_OBS>
+ <STDV_OBS>   2.05549121     </STDV_OBS>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.50576568     </MEAN>
+ <STDV>   1.22071526E+30 </STDV>
+ <BIAS>   1.05134845     </BIAS>
+ <RMSE>  0.881964862     </RMSE>
+ <CORR>  -1.62367883E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00443780     </BIAS>
+ <RMSE>  0.876229346     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2504.48047     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.02450264     </BIAS>
+ <RMSE>  0.884719670     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2742.00073     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01067960     </BIAS>
+ <RMSE>  0.874170482     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.26987004     </MEAN_OBS>
+ <STDV_OBS>   2.50575590     </STDV_OBS>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.38472772     </MEAN>
+ <STDV>  -1.63103575E+13 </STDV>
+ <BIAS>  0.946697891     </BIAS>
+ <RMSE>  0.926149189     </RMSE>
+ <CORR>  -1.63106259E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.899329901     </BIAS>
+ <RMSE>  0.933306992     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2743.42236     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.943612576     </BIAS>
+ <RMSE>  0.927271843     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2760.55444     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.894806325     </BIAS>
+ <RMSE>  0.934022188     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.57945061     </MEAN_OBS>
+ <STDV_OBS>   2.10530949     </STDV_OBS>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2.13825274     </MEAN>
+ <STDV>  -1.62367883E+13 </STDV>
+ <BIAS>   1.30457878     </BIAS>
+ <RMSE>  0.831142187     </RMSE>
+ <CORR>  -1.62362640E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>Wopt_T_SC_T_SA_F</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16834772     </BIAS>
+ <RMSE>  0.835549593     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>WoptMoist_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2907.31567     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26724505     </BIAS>
+ <RMSE>  0.833152413     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>Wopt_T_SC_T_SA_T</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2943.61914     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16553605     </BIAS>
+ <RMSE>  0.835289419     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
